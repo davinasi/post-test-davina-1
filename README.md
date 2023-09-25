@@ -11,3 +11,5 @@ flowchart konversi satuan massa
 
 hasil konversi satuan massa
 <img width="438" alt="image" src="https://github.com/davinasi/post-test-davina-1/assets/144905548/f3004d6e-6e37-47b2-b4f3-681c046661dd">
+
+output tersebut menampilkan hasil dari percabangan konversi satuan masa dari satuan (Kg) ke satuan pound, ounce, gram. 
