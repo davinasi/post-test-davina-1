@@ -4,13 +4,13 @@ nim : 2309116054
 Sistem informasi B'23
 
 
-terminal hasil program konversi satuan massa
+program konversi satuan massa (implementasi operasi dengan bahasa pemograman python)
 ![Screenshot (388)](https://github.com/davinasi/post-test-davina-1/assets/144905548/573ece3a-a1b8-485e-8de4-ece46d953fed)
 ![Screenshot (389)](https://github.com/davinasi/post-test-davina-1/assets/144905548/9dc9fb8a-a80f-406c-a7d3-a85deb0dab22)
 
 
 
-hasil konversi satuan massa
+terminal hasil konversi satuan massa
 1. masukan login sederhana:
    - memasukan nama user.
    ![Screenshot (401)](https://github.com/davinasi/post-test-davina-1/assets/144905548/065d4790-47a5-44ee-81da-fde034875822)
