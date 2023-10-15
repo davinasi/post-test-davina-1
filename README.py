@@ -11,7 +11,7 @@ nim = input("masukan nim: ")
 prodi = input ("masukan prodi: ")
 print(62*"_")
 
-# penjelasan dan perintah untuk input angka
+# penjelasan dan perintah untuk input angka yang akan di eksekusi oleh program yang sudah dibuat dengan satuan yang diinginkan
 print("hari ini kita akan melaksanakan operasi konversi satuan massa.")
 print("-")
 print("silahkan masukan massa!")
@@ -24,7 +24,7 @@ print("\n")
 angka_1 = float(input("masukan angka (kg) = "))
 operator = input ("satuan (pound,ounce,g) : ")
 
-#percabangannya
+#percabangan dari program yang kita kerjakan
 
 if operator == "pound":
     hasil = angka_1 * 2.20462
