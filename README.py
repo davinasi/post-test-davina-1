@@ -24,7 +24,7 @@ print("\n")
 angka_1 = float(input("masukan angka (kg) = "))
 operator = input ("satuan (pound,ounce,g) : ")
 
-#percabangan dari program yang kita kerjakan
+#percabangan dari program yang kita kerjakan.
 
 if operator == "pound":
     hasil = angka_1 * 2.20462
